@@ -1,2 +1,3 @@
 # hello-world
-This is the description
+
+Hello, I'm Chase and I am attending UAlbany.
