@@ -1,3 +1,9 @@
 # hello-world
 
-Hello, I'm Chase and I am attending UAlbany.
+public class HelloWorld
+{
+    public static void main(String[] args) 
+    {
+        System.out.println("Hello World!");
+    }
+}
